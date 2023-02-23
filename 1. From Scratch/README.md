@@ -44,4 +44,4 @@
 
 **This neural network contains only one hidden layer and there is no regularization. There are a variety of ways to improve the accuracy of the network.**
 
-- Accuracy: 84.5% (Training) and 81.9% (Testing)
+- Accuracy: 85% (Training) and 85% (Testing)
